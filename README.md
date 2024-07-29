@@ -6,3 +6,5 @@
 (c)requirments.txt
 
 2 - Src folder and build the package
+
+3 - Logging and Exception
