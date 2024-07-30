@@ -14,3 +14,5 @@
 5 - Data Ingestion
 
 6 - Data Transformation
+
+7 - Model Trainer and Evaluation
