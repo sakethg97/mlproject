@@ -15,4 +15,4 @@
 
 6 - Data Transformation
 
-7 - Model Trainer and Evaluation
+7 - Model Trainer, Evaluation and Hyper Parameter Training
