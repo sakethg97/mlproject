@@ -16,3 +16,5 @@
 6 - Data Transformation
 
 7 - Model Trainer, Evaluation and Hyper Parameter Training
+
+8 - Prediction Pipeline Using Flask Web App
